@@ -13,4 +13,4 @@ This is a repository of self-worked example code for[(HackerRank](https://www.ha
 + 
 + 
 + 
-+ 
++ [Day-10: Binary Numbers](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/thirty_days_of_code/day_10_binary_numbers.md)
