@@ -155,8 +155,7 @@ data = map(float, raw_input().strip().split())
 prediction = 0
 
 # Calculate the linear function, using coefficients and data
-for c, d in zip(coefficients, data):
-	prediction += c * d
+prediction = sum(c * d for c, d in zip(coefficients, data))
 
 # Add constant theta0 to prediction
 prediction += coefficients[-1]
