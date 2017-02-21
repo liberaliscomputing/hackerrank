@@ -12,7 +12,13 @@ This is a repository of self-worked example code for [HackerRank](https://www.ha
 + [Day-03: Intro to Conditional Statements](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/thirty_days_of_code/day_03_conditional_statements.ipynb)
 + [Day-04: Class vs. Instance](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/thirty_days_of_code/day_04_class_vs_instance.ipynb)
 + [Day-05: Loops](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/thirty_days_of_code/day_05_loops.ipynb)
++ [Day-06: Let's Review](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/thirty_days_of_code/day_06_review.ipynb)
++ [Day-07: Arrays](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/thirty_days_of_code/day_07_arrays.ipynb)
++ [Day-08: Dictionaries and Maps](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/thirty_days_of_code/day_08_dictionaries.ipynb)
++ [Day-09: Recursion](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/thirty_days_of_code/day_09_recursion.ipynb)
++ [Day-10: Binary Numbers](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/thirty_days_of_code/day_10_binary_numbers.ipynb)
 + [Day-15: Linked List](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/thirty_days_of_code/day_15_linked_list.ipynb)
++ [Day-16: Exceptions - String to Integer](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/thirty_days_of_code/day_16_except_str_to_int.ipynb)
 
 ### Interview Questions
 + [CapitalOne - Data Scientist](https://github.com/liberaliscomputing/hackerrank/blob/master/interview-questions/capitalone_data_scientist.md)
