@@ -24,6 +24,9 @@ This is a repository of self-worked example code for [HackerRank](https://www.ha
 + [Day-15: Linked List](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/thirty_days_of_code/day_15_linked_list.ipynb)
 + [Day-16: Exceptions - String to Integer](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/thirty_days_of_code/day_16_except_str_to_int.ipynb)
 + [Day-17: More Exceptions](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/thirty_days_of_code/day_17_exceptions.ipynb)
++ [Day-18: Queues and Stacks](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/thirty_days_of_code/day_18_queues_and_stacks.ipynb)
++ [Day-20: Sorting](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/thirty_days_of_code/day_20_sorting.ipynb)
++ [Day-22: Binary Search Trees](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/thirty_days_of_code/day_22_binary_search_trees.ipynb)
 
 ### Interview Questions
 + [CapitalOne - Data Scientist](https://github.com/liberaliscomputing/hackerrank/blob/master/interview-questions/capitalone_data_scientist.md)
