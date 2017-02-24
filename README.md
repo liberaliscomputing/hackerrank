@@ -28,5 +28,9 @@ This is a repository of self-worked example code for [HackerRank](https://www.ha
 + [Day-20: Sorting](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/thirty_days_of_code/day_20_sorting.ipynb)
 + [Day-22: Binary Search Trees](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/thirty_days_of_code/day_22_binary_search_trees.ipynb)
 
+#### 10 Days of Statistics
++ [Day-00: Mean, Median, and Mode]()
++ [Day-00: Weighted Mean]()
+
 ### Interview Questions
 + [CapitalOne - Data Scientist](https://github.com/liberaliscomputing/hackerrank/blob/master/interview-questions/capitalone_data_scientist.md)
