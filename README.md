@@ -29,14 +29,14 @@ This is a repository of self-worked example code for [HackerRank](https://www.ha
 + [Day-22: Binary Search Trees](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/thirty_days_of_code/day_22_binary_search_trees.ipynb)
 
 #### 10 Days of Statistics
-+ [Day-00: Mean, Median, and Mode]()
-+ [Day-00: Weighted Mean]()
-+ [Day-01: Quartiles]()
-+ [Day-01: Interquartile Range]()
-+ [Day-01: Standard Deviation]()
-+ [Day-02: Basic Probability]()
-+ [Day-02: More Dice]()
-+ [Day-02: Compound Event Probability]()
++ [Day-00: Mean, Median, and Mode](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/ten_days_of_statistics/day_00_mean_median_mode.ipynb)
++ [Day-00: Weighted Mean](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/ten_days_of_statistics/day_00_weighted_mean.ipynb)
++ [Day-01: Quartiles](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/ten_days_of_statistics/day_01_quartiles.ipynb)
++ [Day-01: Interquartile Range](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/ten_days_of_statistics/day_01_interquartile_range.ipynb)
++ [Day-01: Standard Deviation](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/ten_days_of_statistics/day_01_standard_deviation.ipynb)
++ [Day-02: Basic Probability](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/ten_days_of_statistics/day_02_basic_probability.ipynb)
++ [Day-02: More Dice](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/ten_days_of_statistics/day_02_more_dice.ipynb)
++ [Day-02: Compound Event Probability](https://github.com/liberaliscomputing/hackerrank/blob/master/tutorials/ten_days_of_statistics/day_02_compound_event_probability.ipynb)
 
 ### Interview Questions
 + [CapitalOne - Data Scientist](https://github.com/liberaliscomputing/hackerrank/blob/master/interview-questions/capitalone_data_scientist.md)
