@@ -31,6 +31,12 @@ This is a repository of self-worked example code for [HackerRank](https://www.ha
 #### 10 Days of Statistics
 + [Day-00: Mean, Median, and Mode]()
 + [Day-00: Weighted Mean]()
++ [Day-01: Quartiles]()
++ [Day-01: Interquartile Range]()
++ [Day-01: Standard Deviation]()
++ [Day-02: Basic Probability]()
++ [Day-02: More Dice]()
++ [Day-02: Compound Event Probability]()
 
 ### Interview Questions
 + [CapitalOne - Data Scientist](https://github.com/liberaliscomputing/hackerrank/blob/master/interview-questions/capitalone_data_scientist.md)
